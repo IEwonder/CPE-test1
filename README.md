@@ -4,8 +4,8 @@
 # _"The apocalypse has begun._ 
 # _——Apocalypse Tank"_
 ___
->![Code Implementation](*code)  
->![Performance Introduction](https://github.com/IEwonder/CPE-test1/blob/main/Performance%20Introduction.md)
+>[Code Implementation](https://github.com/IEwonder/CPE-test1/blob/main/code.md#code)  
+>[Performance Introduction](https://github.com/IEwonder/CPE-test1/blob/main/Performance%20Introduction.md)
 ___
 #### **Official introduction**  
 At the end of the Second World War, the Allies began to gain the upper hand. Traditional heavy tanks proved useless in the face of Allied aircraft and flexible tanks. Therefore, Soviet engineers began to design a truly unstoppable tank, which could directly face the enemy's most powerful firepower and annihilate the enemy. Unfortunately, before this kind of "Super Tank" was put into production, the Soviet Union was defeated. The blueprint of the vehicle was quickly hidden, and all prototypes were destroyed, in case the Allies gained more technical advantages. After the Soviet Union got rid of the Allied Occupation, the plan of "Super Tank" was not forgotten. The research and development of this project continued steadily until the tank was finally completed and ready for production in war factories across the Soviet Union.
