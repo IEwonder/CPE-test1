@@ -4,9 +4,9 @@
 # _"The apocalypse has begun._ 
 # _——Apocalypse Tank"_
 ___
->**Code Implementation**  
+>**[Code Implementation](*code)**  
 >  
->**Performance Introduction**
+>**[Performance Introduction](*Performance Introduction)**
   
 ___
 #### **Official introduction**  
