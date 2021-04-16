@@ -1,4 +1,5 @@
-## Game Command & Conquer : Mental Omega: Apocalypse Tank introduction  （BY ZZH FROM CLASS 37）
+## Game Command & Conquer : Mental Omega: Apocalypse Tank introduction  
+## (BY ZZH FROM CLASS 37)
 
 ![Apocalypse Tank](https://bkimg.cdn.bcebos.com/pic/2fdda3cc7cd98d10b437876d263fb80e7aec908f?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5/format,f_auto)  
 # _"The apocalypse has begun._ 
