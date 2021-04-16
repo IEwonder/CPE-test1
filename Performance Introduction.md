@@ -1,4 +1,4 @@
-##Detailed Information
+## Detailed Information
 ![](https://bkimg.cdn.bcebos.com/pic/29381f30e924b899a9013feefe4d0a950a7b0308589b?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxODA=,g_7,xp_5,yp_5/format,f_auto)
 Manufacturing cost: 1750;  
 Health value: 800;  
@@ -28,7 +28,7 @@ Attack: 100;
 Range: 5.75;  
 Warhead to armor: 100%, 100%, 100%, 75%, 100%, 100%, 100%, 100%, 100%, 70%, 60%, 100% (the damage to individual soldiers is greatly increased);  
 Special abilities: 1. Automatic repair: it can automatically recover life after injury, and recover 5HP every 75s.  
-##Ability Analysis
+## Ability Analysis
 edit
 MVP: sky lift tank HP800, shooting speed 5.3, killing 100
 3-star sky launch tank hp1200, shooting speed 3.2, killing 200  
