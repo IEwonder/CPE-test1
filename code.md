@@ -52,4 +52,4 @@
 ```Bounty.Value=500```  
 ```Bounty=yes```  
 ```Bounty.Display=yes```  
-![Back to main page](https://github.com/IEwonder/CPE-test1/blob/main/README.md)
+[Back to main page](https://github.com/IEwonder/CPE-test1/blob/main/README.md)
